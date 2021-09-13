@@ -59,3 +59,9 @@ projectexplorercategories.*
 projectexplorertags.*
 Addins/MyAddins/*
 
+.vs/*
+
+*.slx
+/ProjectExplorer_MetaData.*
+/ProjectExplorer.*
+
